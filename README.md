@@ -1,7 +1,6 @@
-
 # Permissionless Bhaya's Bug Bounty
 
-This repository contains both the **Frontend** and **Backend**.
+This repository contains both the **Frontend** and **Backend** for the project **Permissionless Bhaya's Bug Bounty**.
 
 ## Tech Stack
 
@@ -14,13 +13,12 @@ This repository contains both the **Frontend** and **Backend**.
 - **TypeScript**
 - **Express.js**
 
+### AI API Used:
+- **OpenAI**
+- **ElevenLabs**
 
-### AI API Used
-- **OPENAI**
-- **ElvenLabs**
-
-##Demo Video 
-https://github.com/user-attachments/assets/1f288f40-f528-4358-8d3c-ce58210312c9
+## Demo Video
+[Watch Demo Video](https://github.com/user-attachments/assets/1f288f40-f528-4358-8d3c-ce58210312c9)
 
 ## Running the Project
 
@@ -50,7 +48,6 @@ https://github.com/user-attachments/assets/1f288f40-f528-4358-8d3c-ce58210312c9
 3. Compile the TypeScript code:
    ```bash
    npm run tsc
-
    ```
 
 ### Environment Variables:
@@ -60,7 +57,7 @@ https://github.com/user-attachments/assets/1f288f40-f528-4358-8d3c-ce58210312c9
 - Multiple meeting attendees support
 - Integration of a chat-like feature, including video and audio
 - Improved UI
-- Account  and Auth Integration
+- Account and Auth Integration
 - Better code organization 😄
 
 ## Technicalities:
