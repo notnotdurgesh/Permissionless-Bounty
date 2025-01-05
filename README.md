@@ -6,6 +6,18 @@ Welcome to the **Permissionless Bhaya's Bug Bounty** project! This repository in
 You can check out the live version of the app here:  
 [**Permissionless Bhaya's Bug Bounty Live**](https://meet-ai-frontend.vercel.app/)
 
+## Features
+
+- **Personalized Memory**: The AI remembers past interactions, allowing you to seamlessly continue from where you left off, making every conversation more engaging and intuitive.
+
+- **Highly Customizable**: Tailor the AI to fit various scenarios, such as interview preparation, language learning, brainstorming, and more. Easily adjust settings to suit your specific needs.
+
+- **Seamless Audio and Video Integration**: Experience uninterrupted conversations with smooth integration of audio and video, ensuring an immersive, real-time exchange.
+
+- **Fluent and Emotionally Rich AI Voice**: Powered by Eleven Labs, the AI voice is not only fluent but also emotionally expressive, adding depth and authenticity to every interaction.
+
+- **built with love and sweat**: even though it's an AI product, it is built from ground up with ❤
+
 ## Tech Stack
 
 ### Frontend:
@@ -15,7 +27,8 @@ You can check out the live version of the app here:
 
 ### Backend:
 - **TypeScript**: A statically typed superset of JavaScript for better development experience.
-- **Express.js**: A minimal and flexible Node.js web application framework.
+- **Express.js**: A minimal and flexible Node.js web application framework
+- **Mongo-DB**: Database used to store conversation and come back to meeting later on
 
 ### AI APIs Used:
 - **OpenAI**: To handle AI-driven interactions and responses.
@@ -61,11 +74,11 @@ Check out the demo video to see how the app works in action:
 
 ### Environment Variables:
 Ensure that the following environment variables are set up for both the frontend and backend to ensure proper functionality:
-- API keys for **OpenAI** and **ElevenLabs**.
+- API keys for **OpenAI** and **ElevenLabs** and **Mongo db**
 - Backend configurations for server URLs and other environment-specific variables.
 
 ## Known Issues:
-- **API Rate Limiting**: Due to rate limits imposed by external APIs (OpenAI & ElevenLabs), the app may experience occasional bugs or timeouts.. Please bear with us, as we are actively working on improving the system.
+- **API Rate Limiting**: Due to rate limits imposed by external APIs (OpenAI & ElevenLabs), the app may experience occasional bugs or timeouts.. Please bear with us, as i am actively working on improving the system.
 - **Latency**: Streaming from AI APIs may introduce some latency, which can vary depending on network conditions.
 
 ## Future Plans:
