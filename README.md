@@ -2,6 +2,12 @@
 
 This repository contains both the **Frontend** and **Backend** for the project **Permissionless Bhaya's Bug Bounty**.
 
+
+## Live Link:
+[Permissionless Bhaya's Bug Bounty Live]
+[LiveLink](https://meet-ai-frontend.vercel.app/)
+
+
 ## Tech Stack
 
 ### Frontend:
@@ -64,8 +70,6 @@ This repository contains both the **Frontend** and **Backend** for the project *
 - I've utilized streaming technologies from both **Eleven Labs** and **ChatGPT** to achieve the lowest possible latency. The latency may vary depending on your network speed.
 - Feel free to fork the repo or raise a PR. Contributions are most welcome!
 
-## Live Link:
-[Permissionless Bhaya's Bug Bounty Live](<INSERT_LIVE_LINK_HERE>)
 
 ---
 
