@@ -23,7 +23,7 @@ You can check out the live version of the app here:
 
 ## Demo Video
 Check out the demo video to see how the app works in action:  
-[Watch Demo Video](https://user-attachments/assets/1f288f40-f528-4358-8d3c-ce58210312c9)
+[Watch Demo Video]([https://user-attachments/assets/1f288f40-f528-4358-8d3c-ce58210312c9](https://github.com/user-attachments/assets/1f288f40-f528-4358-8d3c-ce58210312c9))
 
 ## Running the Project Locally
 
